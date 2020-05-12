@@ -1,0 +1,55 @@
+
+jiazaijiemian.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b
+  rotate: false
+  xy: 317, 27
+  size: 136, 166
+  orig: 136, 166
+  offset: 0, 0
+  index: -1
+c
+  rotate: false
+  xy: 672, 63
+  size: 114, 130
+  orig: 114, 130
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 2, 2
+  size: 133, 191
+  orig: 133, 191
+  offset: 0, 0
+  index: -1
+l
+  rotate: false
+  xy: 203, 16
+  size: 112, 177
+  orig: 112, 177
+  offset: 0, 0
+  index: -1
+o
+  rotate: true
+  xy: 543, 55
+  size: 138, 127
+  orig: 138, 127
+  offset: 0, 0
+  index: -1
+puzzle
+  rotate: true
+  xy: 137, 10
+  size: 183, 64
+  orig: 183, 64
+  offset: 0, 0
+  index: -1
+！
+  rotate: false
+  xy: 455, 28
+  size: 86, 165
+  orig: 86, 165
+  offset: 0, 0
+  index: -1
